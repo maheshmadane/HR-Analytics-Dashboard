@@ -26,4 +26,5 @@
 -Found patterns in employee performance and engagement
 
 ### 6. Demo Screenshot
-Screenshot demo link :-https://github.com/maheshmadane/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png
+Screenshot demo Page 1 link :- https://github.com/maheshmadane/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png
+Screenshot demo Page 1 link :- https://github.com/maheshmadane/HR-Analytics-Dashboard/blob/main/HR%20Analytic%202.png
